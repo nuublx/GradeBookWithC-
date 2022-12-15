@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Czeyad_0020diaa_0020eldin_005CRiderProjects_005CGradeBook_005CGradeBook_002Esln/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Czeyad_0020diaa_0020eldin_005CRiderProjects_005CGradeBook_005CGradeBook_005Cbin_005CDebug_005Cnet7_002E0_005CGradeBook_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Czeyad_0020diaa_0020eldin_005CRiderProjects_005CGradeBook_005CGradeBook_005CBook_002Ecs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Czeyad_0020diaa_0020eldin_005CRiderProjects_005CGradeBook_005CGradeBook_005Cobj_005CDebug_005Cnet7_002E0_005Crefint_005CGradeBook_002Edll/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\zeyad diaa eldin\RiderProjects\GradeBook\GradeBook\bin\Debug\net7.0\GradeBook.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\zeyad diaa eldin\RiderProjects\GradeBook\packages\xunit.abstractions.2.0.0\lib\net35\xunit.abstractions.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=99329c72_002D3dbe_002D4201_002D89b5_002D5975be6df16e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::64A5691B-D43D-483E-B725-1DA192823ACE::net7.0::Tests.UnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

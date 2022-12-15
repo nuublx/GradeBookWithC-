@@ -20,18 +20,18 @@ public class Book
         return true;
     }
 
-    public void showStatistics()
+    public statistics getStatistics()
     {
-        double averageGrade = 0,sumOfGrades=0;
+        double averageGrade = 0, sumOfGrades = 0;
         foreach (var grade in grades)
         {
             sumOfGrades += grade;
         }
+
         averageGrade = sumOfGrades / grades.Count;
-        Console.WriteLine($"Highest Grade: {highestGrade}");
-        Console.WriteLine($"Lowest Grade: {lowestGrade}");
-        Console.WriteLine($"Average Grade: {averageGrade}");
+        return new statistics(averageGrade, highestGrade, lowestGrade);
     }
+
     private List<double> grades;
     private string name;
     private double highestGrade;
